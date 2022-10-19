@@ -1,1 +1,6 @@
-# BuBogdan.github.io
+# Гра "Битва Башень" (Tower Battle)
+Гра розроблена в рамках курсової роботи ВНТУ*
+
+![image](https://user-images.githubusercontent.com/94403355/196797076-cebd802f-3400-4129-bb58-28daf138d19b.png)
+
+Всі можливі карти представлені в таблиці вище
